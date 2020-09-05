@@ -1,0 +1,13 @@
+#kontener{
+	width: 100%;
+}
+#lewy{
+	width: 25%;
+	height: 80%;
+	float: left;
+}
+#prawy{
+	width: 75%;
+	height: 80%;
+	float: right;
+}
